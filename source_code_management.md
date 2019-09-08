@@ -26,6 +26,8 @@ func main() {
 ```
 
 ### Gitlab
+Github와 가장 흡사한 서비스를 인트라넷에서 사용하고 싶을 때 사용합니다.
+
 - 홈페이지: https://gitlab.com
 - 라이센스: Creative Commons: CC BY-SA 4.0 license
 - 소스코드: https://gitlab.com/gitlab-org/gitlab-ce
@@ -34,6 +36,7 @@ func main() {
 
 ### Gogs
 다운로드하고 실행하면 됩니다. 관리가 거의 필요 없기 때문에 개발자가 적은 회사에 추천합니다.
+회사 초기에는 적은수의 개발자가 여러가지 역할을 할 수 밖에 없기 때문에 Start-up 단계에서 추천합니다.
 
 - 홈페이지: https://gogs.io
 - 라이센스: MIT License
@@ -57,6 +60,9 @@ Gogs의 소스코드를 Fork 하여 개발된 소스코드 관리 시스템입�
 - 가격정책: https://bitbucket.org/product/pricing
 
 ### Jira ( and Confluence )
+회사 인원이 많아지고 대규모가 되면 도입을 검토해볼 필요가 있습니다.
+초기에는 오히려 조직구조대비 복잡한 측면이 있습니다.
+
 - 홈페이지: https://www.atlassian.com/software/jira
 - 가격정책: https://www.atlassian.com/software/jira/pricing
 - 사용하는 곳: ILM, Weta, Pixar, Scanline, 4th, Samsung, NASA, Lockheed Martin, Raytheon, Boeing, Oracle, Novell, Harvard, Stanford ...
