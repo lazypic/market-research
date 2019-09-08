@@ -61,9 +61,13 @@ Gogs의 소스코드를 Fork 하여 개발된 소스코드 관리 시스템입�
 - 가격정책: https://bitbucket.org/product/pricing
 
 ### Jira ( and Confluence )
+Jira는 소스코드 관리툴이라기 보다는 프로젝트 메니징 + 이슈관리 + 버그트레킹 관리 툴에 가깝습니다.
+Jira 솔루션은 코드 관리툴과 연동하여 강력하게 사용할 수 있기 때문에 이 항목에 작성합니다.
 회사 인원이 많아지고 대규모가 되면 도입을 검토해볼 필요가 있습니다.
 초기에는 오히려 조직구조대비 복잡한 측면이 있습니다.
 
 - 홈페이지: https://www.atlassian.com/software/jira
 - 가격정책: https://www.atlassian.com/software/jira/pricing
+    - 클라우드: 10명 이하 월 $10, 15명 이하 월 $75, 50명 이하 $300, 150명 월 $950
+    - 서버: 250명 라이센스 일시불 $16,500 [self-managed](https://www.atlassian.com/software/jira/pricing?tab=self-managed)
 - 사용하는 곳: ILM, Weta, Pixar, Scanline, 4th, Samsung, NASA, Lockheed Martin, Raytheon, Boeing, Oracle, Novell, Harvard, Stanford ...
