@@ -37,6 +37,7 @@ func main() {
 
 - 홈페이지: https://gitlab.com
 - 라이센스: Creative Commons: CC BY-SA 4.0 license
+- 작성언어: Go, Ruby, Vue.js
 - 소스코드: https://gitlab.com/gitlab-org/gitlab-ce
 - 가격정책: https://about.gitlab.com/pricing/
     - 제품별 기능제약: https://about.gitlab.com/features/
@@ -48,6 +49,7 @@ func main() {
 
 - 홈페이지: https://gogs.io
 - 라이센스: MIT License
+- 작성언어: Go
 - 소스코드: https://github.com/gogs/gogs
 - 사용하는 곳: Digitalidea, 2L
 
@@ -56,6 +58,7 @@ Gogs의 소스코드를 Fork 하여 개발된 소스코드 관리 시스템입�
 
 - 홈페이지: https://gitea.io
 - 라이센스: MIT License
+- 작성언어: Go
 - 소스코드: https://github.com/go-gitea/gitea
 
 ## ATLASSIAN Solution
