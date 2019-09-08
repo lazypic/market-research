@@ -48,6 +48,8 @@ Gogs의 소스코드를 Fork 하여 개발됨.
 ## ATLASSIAN solution
 
 ### Bitbucket
+기업이 Private 리포지터만 계속 만들어서 프로젝트를 진행하는 상황이라면 좋은 솔루션이다.
+
 - 홈페이지: https://bitbucket.org
 - 가격정책: https://bitbucket.org/product/pricing
 
