@@ -9,11 +9,11 @@
 전세계 개발자가 가장 많이 사용하는 플랫폼
 
 - 홈페이지: https://github.com
-- 사용하는 곳: [lazypic](https://github.com/lazypic), epic ... 전세계적으로 오픈소스 프로젝트에 많이 사용
+- 사용하는 곳: [lazypic](https://github.com/lazypic), epic ... 전세계적으로 오픈소스 프로젝트에 많이 사용됩니다.
 - 가격정책: https://github.com/pricing
     - Private 팀 리포지터리는 1인당 $9 소요.
 
-Lazypic이 github를 솔루션으로 사용하며 편리한점중 하나는 주로 사용하는 Go 언어에서 패키지를 바로 불러서 사용할 수 있다. 협업에 꽤 편리한 기능이다.
+Lazypic이 github를 솔루션으로 사용하며 편리한점중 하나는 주로 사용하는 Go 언어에서 패키지를 바로 불러서 사용할 수 있다. 협업에 꽤 편리한 기능입니다.
 
 ```go
 import "github.com/lazypic/packagename"
@@ -39,7 +39,7 @@ func main() {
 - 사용하는 곳: Digitalidea, 2L
 
 ### Gitea
-Gogs의 소스코드를 Fork 하여 개발됨.
+Gogs의 소스코드를 Fork 하여 개발된 소스코드 관리 시스템입니다.
 
 - 홈페이지: https://gitea.io
 - 라이센스: MIT License
@@ -48,8 +48,8 @@ Gogs의 소스코드를 Fork 하여 개발됨.
 ## ATLASSIAN solution
 
 ### Bitbucket
-기업이 온라인에서 Private 리포지터만 계속 만들어서 프로젝트를 진행하는 상황이라면 좋은 솔루션이다.
-서버 구축없이 비용을 아낄수 있다.
+기업이 온라인에서 Private 리포지터만 계속 만들어서 프로젝트를 진행하는 상황이라면 좋은 솔루션입니다.
+서버 구축없이 비용을 아낄수 있습니다.
 
 - 홈페이지: https://bitbucket.org
 - 가격정책: https://bitbucket.org/product/pricing
