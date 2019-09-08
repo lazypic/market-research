@@ -26,7 +26,7 @@ func main() {
 ```
 
 ### Gitlab
-Github와 가장 흡사한 서비스를 인트라넷에서 사용하고 싶을 때 사용합니다.
+Github와 가장 비슷한 서비스를 인트라넷에서 사용하고 싶을 때 사용합니다.
 
 - 홈페이지: https://gitlab.com
 - 라이센스: Creative Commons: CC BY-SA 4.0 license
