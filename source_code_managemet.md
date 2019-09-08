@@ -9,7 +9,7 @@
 전세계 개발자가 가장 많이 사용하는 플랫폼
 
 - 홈페이지: https://github.com
-- 사용하는 곳: lazypic, epic ... 전세계적으로 오픈소스 프로젝트에 많이 사용
+- 사용하는 곳: [lazypic](https://github.com/lazypic), epic ... 전세계적으로 오픈소스 프로젝트에 많이 사용
 - 가격정책: https://github.com/pricing
     - Private 팀 리포지터리는 1인당 $9 소요. 
 
@@ -21,10 +21,12 @@
 - 사용하는 곳: mofac, 4th
 
 ### Gogs
+다운로드하고 실행하면 됩니다. 관리가 거의 필요없기 때문에 개발자가 적은회사에 추천합니다.
+
 - 홈페이지: https://gogs.io
 - 라이센스: MIT License
 - 소스코드: https://github.com/gogs/gogs
-- 사용하는 곳: Digitalidea
+- 사용하는 곳: Digitalidea, 2L
 
 ### Gitea
 Gogs의 소스코드를 Fork 하여 개발됨.
