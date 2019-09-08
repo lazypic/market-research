@@ -41,7 +41,7 @@ func main() {
 - 사용하는 곳: mofac, 4th
 
 ### Gogs
-다운로드하고 실행하면 됩니다. 관리가 거의 필요 없기 때문에 개발자가 적은 회사에 추천합니다.
+간단한 버전관리 툴입니다. 다운로드하고 실행하면 바로 사용할 수 있습니다. 관리가 거의 필요 없기 때문에 개발자가 적은 회사에 추천합니다.
 회사 초기에는 적은수의 개발자가 여러가지 역할을 할 수 밖에 없기 때문에 Start-up 단계에서 추천합니다.
 
 - 홈페이지: https://gogs.io
@@ -64,6 +64,7 @@ Gogs의 소스코드를 Fork 하여 개발된 소스코드 관리 시스템입�
 
 - 홈페이지: https://bitbucket.org
 - 가격정책: https://bitbucket.org/product/pricing
+    - 서버: [50명 기준 1년 $3,300](https://www.atlassian.com/software/bitbucket/pricing?tab=self-managed)
 
 ### Jira ( and Confluence )
 Jira는 소스코드 관리툴이라기 보다는 프로젝트 메니징 + 이슈관리 + 버그트레킹 관리 툴에 가깝습니다.
