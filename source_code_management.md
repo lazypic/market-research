@@ -11,7 +11,17 @@
 - 홈페이지: https://github.com
 - 사용하는 곳: [lazypic](https://github.com/lazypic), epic ... 전세계적으로 오픈소스 프로젝트에 많이 사용
 - 가격정책: https://github.com/pricing
-    - Private 팀 리포지터리는 1인당 $9 소요. 
+    - Private 팀 리포지터리는 1인당 $9 소요.
+
+Lazypic이 github를 솔루션으로 사용하며 편리한점중 하나는 주로 사용하는 Go 언어에서 패키지를 바로 불러서 사용할 수 있다. 협업에 꽤 편리한 기능이다.
+
+```go
+import "github.com/lazypic/packagename"
+
+func main() {
+    packagename.funcname()
+}
+```
 
 ### Gitlab
 - 홈페이지: https://gitlab.com
