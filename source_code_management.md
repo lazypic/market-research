@@ -55,7 +55,7 @@ Gogs의 소스코드를 Fork 하여 개발된 소스코드 관리 시스템입�
 - 홈페이지: https://bitbucket.org
 - 가격정책: https://bitbucket.org/product/pricing
 
-### Confluence and Jira
+### Jira ( and Confluence )
 - 홈페이지: https://www.atlassian.com/software/jira
 - 가격정책: https://www.atlassian.com/software/jira/pricing
-- 사용하는 곳: ILM, Scanline, 4th
+- 사용하는 곳: ILM, Weta, Pixar, Scanline, 4th, Samsung, NASA, Lockheed Martin, Raytheon, Boeing, Oracle, Novell, Harvard, Stanford ...
