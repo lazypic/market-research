@@ -13,7 +13,8 @@
 - 홈페이지: https://github.com
 - 사용하는 곳: [lazypic](https://github.com/lazypic), epic 등 전세계적으로 오픈소스 프로젝트에 많이 사용됩니다.
 - 가격정책: https://github.com/pricing
-    - Private 팀 리포지터리는 1인당 $9 소요.
+    - Private 팀 리포지터리는 1인당 월 $9 소요.
+    - Private 프로젝트가 될 정도로 가치가 있는 프로젝트라면 1인당 월 $9 비용은 싸다고 생각합니다.
 
 Lazypic이 Github를 솔루션으로 사용하며 편리한 점은 주로 사용하는 Go 언어에서 패키지를 바로 불러서 사용할 수 있습니다.
 큰 규모의 프로젝트 및 협업에 꽤 편리한 기능입니다.
@@ -69,5 +70,5 @@ Jira 솔루션은 코드 관리툴과 연동하여 강력하게 사용할 수 �
 - 홈페이지: https://www.atlassian.com/software/jira
 - 가격정책: https://www.atlassian.com/software/jira/pricing
     - 클라우드: 10명 이하 월 $10, 15명 이하 월 $75, 50명 이하 $300, 150명 월 $950
-    - 서버: 250명 라이센스 일시불 $16,500 [self-managed](https://www.atlassian.com/software/jira/pricing?tab=self-managed)
+    - 서버: 250명 라이센스 일시불 $16,500 [self-managed](https://www.atlassian.com/software/jira/pricing?tab=self-managed) / 1인당 $66 모델
 - 사용하는 곳: ILM, Weta, Pixar, Scanline, 4th, Samsung, NASA, Lockheed Martin, Raytheon, Boeing, Oracle, Novell, Harvard, Stanford ...
