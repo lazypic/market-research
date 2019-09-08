@@ -28,12 +28,14 @@ func main() {
 ```
 
 ### Gitlab
-Github와 가장 비슷한 서비스를 인트라넷에서 사용하고 싶을 때 사용합니다.
+규모가 있는 버전 관리 시스템입니다. 인트라넷에 설치가 가능합니다.
+관리자가 필요할 정도의 규모를 가진 툴입니다.
 
 - 홈페이지: https://gitlab.com
 - 라이센스: Creative Commons: CC BY-SA 4.0 license
 - 소스코드: https://gitlab.com/gitlab-org/gitlab-ce
 - 가격정책: https://about.gitlab.com/pricing/
+    - 제품별 기능제약: https://about.gitlab.com/features/
 - 사용하는 곳: mofac, 4th
 
 ### Gogs
