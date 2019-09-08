@@ -56,7 +56,7 @@ Gogs의 소스코드를 Fork 하여 개발된 소스코드 관리 시스템입�
 - 라이센스: MIT License
 - 소스코드: https://github.com/go-gitea/gitea
 
-## ATLASSIAN solution
+## ATLASSIAN Solution
 
 ### Bitbucket
 기업이 온라인에서 비공개 리포지터리만 계속 만들어서 프로젝트를 진행하는 상황이라면 좋은 솔루션입니다.
@@ -77,3 +77,14 @@ Jira 솔루션은 코드 관리툴과 연동하여 강력하게 사용할 수 �
     - 클라우드: 10명 이하 월 $10, 15명 이하 월 $75, 50명 이하 $300, 150명 월 $950
     - 내부서버: 250명 라이센스 일시불 $16,500 [self-managed](https://www.atlassian.com/software/jira/pricing?tab=self-managed) / 1인당 $66 모델
 - 사용하는 곳: ILM, Weta, Pixar, Scanline, 4th, Samsung, NASA, Lockheed Martin, Raytheon, Boeing, Oracle, Novell, Harvard, Stanford ...
+
+## Cloud Solution
+
+### AWS: CodeCommit
+- 가격정책: 1인당 월 $1, 1기가당 $0.06, 1회 요청시 $0.001
+
+### Google Cloud: Cloud Source Repositories
+- 가격정책: 5명 이상부터 1인당 월 $1, 1G당 $0.1, 1G 송신당 월$0.1
+
+### Microsoft Azure: DevOps
+- 가격정책: 5명까지 무료. 이후 명당 6,747원
