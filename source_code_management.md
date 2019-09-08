@@ -16,10 +16,10 @@
 Lazypic이 github를 솔루션으로 사용하며 편리한점중 하나는 주로 사용하는 Go 언어에서 패키지를 바로 불러서 사용할 수 있다. 협업에 꽤 편리한 기능입니다.
 
 ```go
-import "github.com/lazypic/packagename"
+import "github.com/lazypic/package"
 
 func main() {
-    packagename.funcname()
+    package.FunctionName()
 }
 ```
 
