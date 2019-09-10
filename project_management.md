@@ -6,6 +6,7 @@
 - DB: SQL(PostgreSQL)
 - 주 언어: 여러 언어 사용
 - 계정 당 가격(월): $30
+- 상세 가격 정책 페이지: https://www.shotgunsoftware.com/pricing/
 - 사용회사: [웨타](https://www.wetafx.co.nz), [픽소몬도](https://www.pixomondo.com), [매드맨](http://madmanpost.com), [매크로그래프](http://www.macrograph.co.kr), [포스](http://www.4thparty.co.kr), [걸리버 스튜디오](http://gulliverstudios.com), [ILM](https://www.ilm.com)(전환중)
 - 툴 개발자 수('17.10.30 기준): 85+
 
@@ -14,7 +15,7 @@
 - 소스코드 / API: https://github.com/Southpaw-TACTIC/TACTIC
 - DB: SQL(PostgreSQL)
 - 주 언어: Python
-- 계정 당 가격(월): 부분 유료
+- 계정 당 가격(월): 부분 유료(가격문의)
 - 사용회사: [덱스터](http://dexterstudios.com)
 - 툴 개발자 수:
 
@@ -24,6 +25,7 @@
 - DB: SQL(PostgreSQL)
 - 주 언어: Python
 - 계정 당 가격(월): $10
+- 상세 가격 정책 페이지: https://www.ftrack.com/en/pricing
 - 사용회사: [모팩](https://www.mofac.com), [MPC](https://www.moving-picture.com), CGtail
 - 툴 개발자 수('17.10.30 기준): 8+
 
@@ -42,6 +44,7 @@
 - DB: SQL(?)
 - 주 언어: PHP
 - 계정 당 가격(월): $40
+- 상세 가격 정책 페이지: https://nim-labs.com/pricing/
 - 사용회사: 
 - 툴 개발자 수('17.10.30 기준):
 
