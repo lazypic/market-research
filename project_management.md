@@ -3,7 +3,7 @@
 ### Shotgun
 - 홈페이지: https://www.shotgunsoftware.com
 - 소스코드 / API: https://github.com/shotgunsoftware
-- DB: SQL(PostgresSQL)
+- DB: SQL(PostgreSQL)
 - 주 언어: 여러 언어 사용
 - 계정 당 가격(월): $30
 - 사용회사: [웨타](https://www.wetafx.co.nz), [픽소몬도](https://www.pixomondo.com), [매드맨](http://madmanpost.com), [매크로그래프](http://www.macrograph.co.kr), [포스](http://www.4thparty.co.kr), [걸리버 스튜디오](http://gulliverstudios.com), [ILM](https://www.ilm.com)(전환중)
@@ -12,7 +12,7 @@
 ### Tactic
 - 홈페이지: https://southpawtech.com/products/product-project/
 - 소스코드 / API: https://github.com/Southpaw-TACTIC/TACTIC
-- DB: SQL(PostgresSQL)
+- DB: SQL(PostgreSQL)
 - 주 언어: Python
 - 계정 당 가격(월): 부분 유료
 - 사용회사: [덱스터](http://dexterstudios.com)
@@ -21,7 +21,7 @@
 ### Ftrack
 - 홈페이지: https://www.ftrack.com/en/
 - 소스코드 / API: https://www.ftrack.com/en/
-- DB: SQL(PostgresSQL)
+- DB: SQL(PostgreSQL)
 - 주 언어: Python
 - 계정 당 가격(월): $10
 - 사용회사: [모팩](https://www.mofac.com), [MPC](https://www.moving-picture.com), CGtail
@@ -66,7 +66,7 @@
 ### Roi
 - 홈페이지:
 - 소스코드 / API: https://github.com/studio2l/roi
-- DB: SQL(PostgresSQL)
+- DB: SQL(PostgreSQL)
 - 주 언어: Go
 - 계정 당 가격(월): $0(오픈소스, 비과금)
 - 사용회사: [2L](http://www.2limageworks.com)
