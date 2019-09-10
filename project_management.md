@@ -16,7 +16,7 @@
 - 주 언어: Python
 - 계정 당 가격(월): 부분 유료
 - 사용회사: [덱스터](http://dexterstudios.com)
-- 툴 개발자 수('17.10.30 기준): 1
+- 툴 개발자 수:
 
 ### Ftrack
 - 홈페이지: https://www.ftrack.com/en/
@@ -52,7 +52,7 @@
 - 주 언어: GO
 - 계정 당 가격(월): $0, 오픈소스, 기업에서 원하는 기능에 대한 추가 과금모델
 - 사용회사: [디지털 아이디어](http://www.digitalidea.co.kr), [lazypic](http://lazypic.org)
-- 툴 개발자 수('17.10.30 기준): 2
+- 툴 개발자 수('19.9.10 기준): 2
 
 ### Locman
 - 홈페이지: http://locus.com/company/
