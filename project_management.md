@@ -50,7 +50,7 @@
 - 소스코드 / API: https://github.com/digital-idea/csi3
 - DB: noSQL(MongoDB)
 - 주 언어: GO
-- 계정 당 가격(월): $0, 오픈소스, 기업에서 원하는 기능에 대한 추가 과금모델
+- 계정 당 가격(월): $0(오픈소스, 기업에서 원하는 기능에 대한 추가 과금모델)
 - 사용회사: [디지털 아이디어](http://www.digitalidea.co.kr), [lazypic](http://lazypic.org)
 - 툴 개발자 수('19.9.10 기준): 2
 
@@ -68,6 +68,6 @@
 - 소스코드 / API: https://github.com/studio2l/roi
 - DB: SQL(PostgresSQL)
 - 주 언어: Go
-- 계정 당 가격(월): $0, 오픈소스, 비과금
+- 계정 당 가격(월): $0(오픈소스, 비과금)
 - 사용회사: [2L](http://www.2limageworks.com)
 - 툴 개발자 수('17.10.30 기준): 1
