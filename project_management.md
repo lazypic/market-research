@@ -26,10 +26,10 @@
 - 주 언어: Python
 - 계정 당 가격(월): $10
 - 상세 가격 정책 페이지: https://www.ftrack.com/en/pricing
-- 사용회사: [모팩](https://www.mofac.com), [MPC](https://www.moving-picture.com), CGtail
+- 사용회사: [모팩](https://www.mofac.com), [MPC](https://www.moving-picture.com), [cgtale studio](http://cgtalestudio.com/)
 - 툴 개발자 수('17.10.30 기준): 8+
 
-### Warmhole
+### Wormhole
 - 홈페이지: www.wormholepipeline.com
 - 소스코드 / API: 비공개
 - DB: SQL(?)
