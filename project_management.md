@@ -45,7 +45,7 @@
 - 주 언어: PHP
 - 계정 당 가격(월): $40
 - 상세 가격 정책 페이지: https://nim-labs.com/pricing/
-- 사용회사: 
+- 사용회사: [디지털 도메인](https://www.digitaldomain.com), [아스널 크리에이티브](http://www.arsenalcreative.com/?)
 - 툴 개발자 수('17.10.30 기준):
 
 ### CSI
