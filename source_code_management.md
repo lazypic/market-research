@@ -90,6 +90,9 @@ Jira 솔루션은 Bitbucket 코드 관리 툴과 연동하여 강력하게 사�
 - 홈페이지: https://aws.amazon.com/codecommit/
 - 가격정책: 1인당 월 $1, 1기가당 $0.06, 1회 요청시 $0.001
 
+lazypic은 비공개 되어야 하며, 라이센스 키젠 생성 툴처럼 협업이 필요없고 규모가 작은 코드에 이 서비스를 사용합니다.
+AWS IAM 으로 권한을 확실히 할 수 있으며, lazypic은 AWS 기반으로 인프라가 되어있어 기존 구조와 잘 어울려서 셋팅할 수 있기 때문이기도 합니다.
+
 ### Google Cloud: Cloud Source Repositories
 - 홈페이지: https://cloud.google.com/source-repositories/
 - 가격정책: 5명 이상부터 1인당 월 $1, 1G당 $0.1, 1G 송신당 월$0.1
