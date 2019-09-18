@@ -10,15 +10,6 @@
 - 사용회사: [웨타](https://www.wetafx.co.nz), [픽소몬도](https://www.pixomondo.com), [매드맨](http://madmanpost.com), [매크로그래프](http://www.macrograph.co.kr), [포스](http://www.4thparty.co.kr), [걸리버 스튜디오](http://gulliverstudios.com), [ILM](https://www.ilm.com)(전환중)
 - 툴 개발+리서치+마케팅 수: 85+
 
-### Tactic
-- 홈페이지: https://southpawtech.com/products/product-project/
-- 소스코드 / API: https://github.com/Southpaw-TACTIC/TACTIC
-- DB: SQL(PostgreSQL)
-- 주 언어: Python
-- 계정 당 가격(월): 부분 유료(가격문의)
-- 사용회사: [덱스터](http://dexterstudios.com)
-- 툴 개발자 수:
-
 ### Ftrack
 - 홈페이지: https://www.ftrack.com/en/
 - 소스코드 / API: https://www.ftrack.com/en/
@@ -29,14 +20,14 @@
 - 사용회사: [모팩](https://www.mofac.com), [MPC](https://www.moving-picture.com), [cgtale studio](http://cgtalestudio.com/)
 - 툴 개발자 수: 8+
 
-### Wormhole
-- 홈페이지: www.wormholepipeline.com
-- 소스코드 / API: 비공개
-- DB: SQL(?)
-- 주 언어: 비공개
-- 계정 당 가격(월): 유료(가격문의) / 마케팅상 샷건의 반값모델의 기사가 있다.
-- 사용회사: [레드로버](https://blog.naver.com/retrobot), 스튜디오 엠아이엔, [올리브 스튜디오](http://www.olivestudio.co.kr)
-- 툴 개발자 수: ?
+### Tactic
+- 홈페이지: https://southpawtech.com/products/product-project/
+- 소스코드 / API: https://github.com/Southpaw-TACTIC/TACTIC
+- DB: SQL(PostgreSQL)
+- 주 언어: Python
+- 계정 당 가격(월): 부분 유료(가격문의)
+- 사용회사: [덱스터](http://dexterstudios.com)
+- 툴 개발자 수:
 
 ### Nim
 - 홈페이지: https://nim-labs.com
@@ -46,6 +37,15 @@
 - 계정 당 가격(월): $40
 - 상세 가격 정책 페이지: https://nim-labs.com/pricing/
 - 사용회사: [디지털 도메인](https://www.digitaldomain.com), [아스널 크리에이티브](http://www.arsenalcreative.com/?)
+- 툴 개발자 수: ?
+
+### Wormhole
+- 홈페이지: www.wormholepipeline.com
+- 소스코드 / API: 비공개
+- DB: SQL(?)
+- 주 언어: 비공개
+- 계정 당 가격(월): 유료(가격문의) / 마케팅상 샷건의 반값모델의 기사가 있다.
+- 사용회사: [레드로버](https://blog.naver.com/retrobot), 스튜디오 엠아이엔, [올리브 스튜디오](http://www.olivestudio.co.kr)
 - 툴 개발자 수: ?
 
 ### CSI
