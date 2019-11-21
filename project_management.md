@@ -43,7 +43,7 @@
 - 홈페이지: www.wormholepipeline.com
 - 소스코드 / API: Python
 - DB: SQL(?)
-- 주 언어: 비공개
+- 주 언어: Php, Docker(배포) / https://www.youtube.com/watch?v=i4DR_aKPmJI
 - 계정 당 가격(월): 1명 월 2만원
 - 사용회사: [레드로버](https://blog.naver.com/retrobot), 스튜디오 엠아이엔, [올리브 스튜디오](http://www.olivestudio.co.kr)
 - 툴 개발자 수: ?
