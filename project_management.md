@@ -39,22 +39,13 @@
 - 사용회사: [디지털 도메인](https://www.digitaldomain.com), [아스널 크리에이티브](http://www.arsenalcreative.com/?)
 - 툴 개발자 수: ?
 
-### Wormhole
-- 홈페이지: www.wormholepipeline.com
-- 소스코드 / API: 비공개
-- DB: SQL(?)
-- 주 언어: 비공개
-- 계정 당 가격(월): 유료(가격문의) / 마케팅상 샷건의 반값모델의 기사가 있다.
-- 사용회사: [레드로버](https://blog.naver.com/retrobot), 스튜디오 엠아이엔, [올리브 스튜디오](http://www.olivestudio.co.kr)
-- 툴 개발자 수: ?
-
 ### Wormhole2
 - 홈페이지: www.wormholepipeline.com
-- 소스코드 / API: 비공개
+- 소스코드 / API: Python
 - DB: SQL(?)
 - 주 언어: 비공개
-- 계정 당 가격(월): 1명 월 2만원 / 마케팅상 샷건의 반값모델의 기사가 있다.
-- 사용회사: 
+- 계정 당 가격(월): 1명 월 2만원
+- 사용회사: [레드로버](https://blog.naver.com/retrobot), 스튜디오 엠아이엔, [올리브 스튜디오](http://www.olivestudio.co.kr)
 - 툴 개발자 수: ?
 
 ### CSI
