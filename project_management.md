@@ -41,10 +41,10 @@
 
 ### Wormhole2
 - 홈페이지: www.wormholepipeline.com
-- 소스코드 / API: Python
+- 소스코드 / API: restAPI, jwt 토큰사용
 - DB: SQL(?)
-- 주 언어: Php, Docker(배포) / https://www.youtube.com/watch?v=i4DR_aKPmJI
-- 계정 당 가격(월): 1명 월 2만원
+- 주 언어: Php, Docker(배포, 컨테이너6) / https://www.youtube.com/watch?v=i4DR_aKPmJI
+- 계정 당 가격(월): 1명 월 $20, API모델 $35
 - 사용회사: [레드로버](https://blog.naver.com/retrobot), 스튜디오 엠아이엔, [올리브 스튜디오](http://www.olivestudio.co.kr)
 - 툴 개발자 수: ?
 
