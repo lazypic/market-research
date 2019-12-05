@@ -53,7 +53,7 @@
 - 소스코드 / API: https://github.com/digital-idea/csi3
 - DB: noSQL(MongoDB)
 - 주 언어: GO
-- 계정 당 가격(월): 정책 결정 예정
+- 계정 당 가격(월): 1명 $40 / 기술지원 없이 직접운용 $0
 - 사용회사: [디지털 아이디어](http://www.digitalidea.co.kr), [lazypic](http://lazypic.org)
 - 툴 개발자 수: 2
 
