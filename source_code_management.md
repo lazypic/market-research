@@ -58,6 +58,7 @@ Gogs의 소스코드를 Fork 하여 개발된 소스코드 관리 시스템입�
 
 - 홈페이지: https://bitbucket.org
 - 가격정책: https://bitbucket.org/product/pricing
+- 사용하는 곳: Ford, Paypal, Wework, Starbucks ...
 
 ### Jira ( and Confluence )
 회사 인원이 많아지고 대규모가 되면 도입을 검토해볼 필요가 있습니다.
