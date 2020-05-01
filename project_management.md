@@ -57,6 +57,16 @@
 - 사용회사: [디지털 아이디어](http://www.digitalidea.co.kr), [lazypic](http://lazypic.org)
 - 툴 개발자 수: 2
 
+### Kitsu
+- 홈페이지: https://www.cg-wire.com/en/kitsu.html
+- 소스코드: https://github.com/cgwire/kitsu
+- DB: 
+- 주 언어: vue.js
+- 계정 당 가격모델: https://www.cg-wire.com/en/pricing.html
+- 툴 개발자 수: 1명+(https://github.com/frankrousseau)
+- 라이센스: AGPL-3.0
+
+
 ### Locman
 - 홈페이지: http://locus.com/company/
 - 소스코드 / API: 비공개
