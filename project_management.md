@@ -7,7 +7,7 @@
 - 주 언어: 여러 언어 사용
 - 계정 당 가격(월): $30 / $50(내부서버) / 내부서버 셋팅 별도
 - 상세 가격 정책 페이지: https://www.shotgunsoftware.com/pricing/
-- 사용회사: [웨타](https://www.wetafx.co.nz), [픽소몬도](https://www.pixomondo.com), [매드맨](http://madmanpost.com), [매크로그래프](http://www.macrograph.co.kr), [포스](http://www.4thparty.co.kr), [걸리버 스튜디오](http://gulliverstudios.com), [ILM](https://www.ilm.com)(전환중)
+- 사용회사: [웨타](https://www.wetafx.co.nz), [픽소몬도](https://www.pixomondo.com), [매드맨](http://madmanpost.com), [포스](http://www.4thparty.co.kr), [걸리버 스튜디오](http://gulliverstudios.com), [ILM](https://www.ilm.com)(전환중)
 - 툴 개발+리서치+마케팅 수: 85+
 
 ### Ftrack
@@ -74,14 +74,4 @@
 - 주 언어: 비공개
 - 계정 당 가격(월): 자체툴
 - 사용회사: [Locus](http://locus.com)
-- 툴 개발자 수: 1
-
-### Roi
-- 아직 회사 적용전.
-- 홈페이지:
-- 소스코드 / API: https://github.com/studio2l/roi
-- DB: SQL(PostgreSQL)
-- 주 언어: Go
-- 계정 당 가격(월): $0(오픈소스, 비과금)
-- 사용회사: [2L](http://www.2limageworks.com)
 - 툴 개발자 수: 1
