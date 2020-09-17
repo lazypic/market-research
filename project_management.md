@@ -56,7 +56,8 @@
 - 가격: 문의 + 기술지원
 - 사용회사: [디지털 아이디어](http://www.digitalidea.co.kr), [lazypic](http://lazypic.org)
 - 툴 개발자 수: 2
-- 장점: 커스터마이징
+- 오픈소스 프로젝트 / BSD-License
+- 장점: 커스터마이징, 기업 맞춤형 개발
 
 ### Kitsu
 - 홈페이지: https://www.cg-wire.com/en/kitsu.html
