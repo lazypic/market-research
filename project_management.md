@@ -49,13 +49,14 @@
 - 툴 개발자 수: ?
 
 ### CSI
-- 홈페이지: 
+- 홈페이지: https://lazypic.org
 - 소스코드 / API: https://github.com/digital-idea/csi3
 - DB: noSQL(MongoDB)
 - 주 언어: GO
 - 계정 당 가격(월): 1명 $40 / 기술지원 없이 직접운용 $0
 - 사용회사: [디지털 아이디어](http://www.digitalidea.co.kr), [lazypic](http://lazypic.org)
 - 툴 개발자 수: 2
+- 장점: 커스터마이징
 
 ### Kitsu
 - 홈페이지: https://www.cg-wire.com/en/kitsu.html
