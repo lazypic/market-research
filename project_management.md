@@ -54,7 +54,7 @@
 - DB: noSQL(MongoDB)
 - 주 언어: GO
 - 가격: 문의 + 기술지원
-- 사용회사: [디지털 아이디어](http://www.digitalidea.co.kr), [lazypic](http://lazypic.org)
+- 사용회사: [(주)투썬디지털아이디어](http://www.digitalidea.co.kr), [Lazypic,LLC.](http://lazypic.org)
 - 툴 개발자 수: 2
 - 오픈소스 프로젝트 / BSD-License
 - 장점: 커스터마이징, 기업 맞춤형 개발
