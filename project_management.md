@@ -76,8 +76,3 @@
 - 계정 당 가격(월): 자체툴
 - 사용회사: [Locus](http://locus.com)
 - 툴 개발자 수: 1
-
-
-### KOVE
-- 서비스 종료
-- http://www.thekove.com
